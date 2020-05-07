@@ -18,4 +18,5 @@ setup(
     license=license,
     packages=find_packages(),
     url="https://github.com/bensengupta/modelisation",
+    python_requires=">=2.7",
 )
