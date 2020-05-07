@@ -16,6 +16,6 @@ setup(
     author="Benjamin Sengupta",
     author_email="benjamin.sengupta@gmail.com",
     license=license,
-    packages=find_packages(exclude=("tests")),
+    packages=find_packages(),
     # url="https://github.com/kennethreitz/samplemod",
 )
