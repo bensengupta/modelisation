@@ -17,5 +17,5 @@ setup(
     author_email="benjamin.sengupta@gmail.com",
     license=license,
     packages=find_packages(),
-    # url="https://github.com/kennethreitz/samplemod",
+    url="https://github.com/bensengupta/modelisation",
 )
